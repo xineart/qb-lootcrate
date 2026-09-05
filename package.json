@@ -1,10 +1,9 @@
 {
   "name": "case-opening-app",
   "version": "1.0.0",
-  "description": "Ládanyitó weboldal",
-  "main": "index.js",
+  "main": "html/index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "html/index.js"
   },
   "dependencies": {
     "express": "^4.19.2",
